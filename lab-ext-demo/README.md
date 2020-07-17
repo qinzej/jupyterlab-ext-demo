@@ -13,7 +13,7 @@ A JupyterLab extension.
 ## Install
 
 ```bash
-jupyter labextension install lab-ext-demo
+jupyter labextension install @qinzej/lab-ext-demo
 ```
 
 ## Contributing
